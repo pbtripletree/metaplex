@@ -181,6 +181,6 @@ solana airdrop 4 NEW_WALLET_ADDRESS
 # Test your program changes
 ```
 
-## Reporting security issues
+## Reporting security issues!!
 
 To report a security issue, please follow the guidance on the [SECURITY](.github/SECURITY.md) page.
